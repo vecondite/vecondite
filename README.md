@@ -43,9 +43,9 @@ some mercies yet remain.
 ```
 CONTACT
 ────────────────────────────────────
-discord:     @myzstral
-github:      myzstral
-reddit:      u/myzstral
+discord:     @vecondite
+github:      vecondite
+reddit:      u/vecondite
 other:       [REDACTED]
 ```
 
