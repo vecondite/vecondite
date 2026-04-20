@@ -14,7 +14,7 @@ os:          arch linux
 cpu:         intel i5-4300M
 graphics:    hd 4600 (integrated)
 device:      lenovo thinkpad (2014)
-languages:   javascript · java · rust
+languages:   typescript · javascript · java · rust
 ```
 
 ```
